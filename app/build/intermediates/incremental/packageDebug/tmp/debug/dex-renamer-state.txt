@@ -1,0 +1,4 @@
+#Thu Dec 28 18:24:09 CET 2023
+base.0=/home/koen/curso aplicaciones movil/part 3 android advanced/project/TiltSpot_start/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
