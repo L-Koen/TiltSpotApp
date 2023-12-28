@@ -10,6 +10,9 @@ handles the rotation and draws the spots in the right places.
 
 This is the Project after following the [guide](https://google-developer-training.github.io/android-developer-advanced-course-practicals/unit-1-expand-the-user-experience/lesson-3-sensors/3-2-p-working-with-sensor-based-orientation/3-2-p-working-with-sensor-based-orientation.html)
 
+I upgraded the Gradle version to 8.2.0 using the AGP Grade Assistant
+In order to get the Assistant to work I had to manualy mark the ./app/src/main/res folder as Resources Root and the ./app/src/main/java folder as Sources Root.
+
 It was tested on a Virtual Google Phone and a real Samsung A53.
 
 
